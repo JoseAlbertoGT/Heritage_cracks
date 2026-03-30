@@ -49,7 +49,7 @@ This dataset is structured to facilitate the training and evaluation of machine 
 ## 📊 Dataset Preprocessing & Augmentation
 The dataset was carefully built using the following specifications to ensure robust model training and generalization:
 
-- **Source Images:** 686
+- **Total Images:** 1,716
 - **Classes:** 1 (Grietas / Damage)
 - **Data Split:** 75% Training / 15% Validation / 10% Testing
 
