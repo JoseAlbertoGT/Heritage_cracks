@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Grietas']
+
+roboflow:
+  workspace: maybelin
+  project: cracks_phone
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/maybelin/cracks_phone/dataset/2
